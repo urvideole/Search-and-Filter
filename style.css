@@ -110,3 +110,11 @@ li {
 .hide {
     display: none;
 }
+
+a {
+    color: #443a29;
+}
+
+a:hover {
+    color: #706b64;
+}
